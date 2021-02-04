@@ -30,7 +30,7 @@ public class Libro {
 	public void setAutor(String autor) {
 		this.autor = autor;
 	}
-	public boolean isDisponible() {
+	public boolean getDisponible() {
 		return disponible;
 	}
 	public void setDisponible(boolean disponible) {
